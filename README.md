@@ -15,7 +15,7 @@ create-rn-web-app MyProject
 ```
 
 
-![cli](https://i.imgur.com/tjpjUlU.jpg)
+![cli](https://i.imgur.com/2Mni88m.jpg)
 
 
 ### To run on web:   
