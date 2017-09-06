@@ -1,0 +1,22 @@
+{
+  "name": "create-rn-web-app",
+  "version": "0.0.1",
+  "description": "react native web project generator",
+  "main": "index.js",
+  "bin": {
+    "create-rn-web-app": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-source": "node build.js"
+  },
+  "author": "Nader Dabit",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "shelljs": "^0.7.7",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "cross-spawn": "^5.1.0"
+  }
+}
