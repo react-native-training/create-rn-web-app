@@ -1,6 +1,6 @@
 {
   "name": "create-rn-web-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react native web project generator",
   "main": "index.js",
   "bin": {
