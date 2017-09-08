@@ -5,7 +5,7 @@
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest",
-		"web": "webpack-dev-server -d --config ./webpack.config.js --inline --hot --colors"
+		"web": "webpack-dev-server -d --config ./webpack.config.js --inline --hot --colors --open"
 	},
 	"dependencies": {
 		"babel-cli": "^6.26.0",
